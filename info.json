@@ -1,0 +1,10 @@
+{
+	"name": "MoreEngineering-core",
+	"version": "1.0.0",
+	"factorio_version": "1.1",
+	"title": "More Engineering mod",
+	"author": "Unlucky0314",
+	"dependencies": [
+		"base >= 1.1.0"
+	]
+}
